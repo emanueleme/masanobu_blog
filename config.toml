@@ -1,4 +1,4 @@
-baseURL = "http://emanueleme.github.io/masanobu_blog/"
+baseURL = "https://emanueleme.github.io/masanobu_blog/"
 languageCode = "en-us"
 title = "Masanobu"
 theme = "mainroad"
