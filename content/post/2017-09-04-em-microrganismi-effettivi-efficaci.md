@@ -86,7 +86,7 @@ _<span style="font-weight: 400;">EM per la qualità del suolo e un’agricoltura
 
 **Conclusioni**
 
-<span style="font-weight: 400;">Controllare la microflora del suolo per aumentare la predominanza dei microrganismi effettivi può aiutare a migliorare e/o mantenere le caratteristiche chimico-fisiche dell’ambiente. Anche l’appropriata dose di concime organico è spesso importante come parte di una strategia per esercitare tale controllo.</span>
+<span style="font-weight: 400;">Controllare la microflora del suoloper aumentare la predominanza dei microrganismi effettivi può aiutare a migliorare e/o mantenere le caratteristiche chimico-fisiche dell’ambiente. Anche l’appropriata dose di concime organico è spesso importante come parte di una strategia per esercitare tale controllo.</span>
 
 <span style="font-weight: 400;">I precedenti sforzi per cambiare significativamente la microflora indigena in un determinato suolo introducendo singole colture di microrganismi esterni hanno spesso avuto poco successo. Le popolazioni introdotte artificialmente sono immediatamente soggette a competizione e antagonismo dalle popolazioni indigene e il loro numero diminuisce rapidamente. Tuttavia, la probabilità di cambiare l’equilibrio microbiologico di un suolo e controllarlo a favore della crescita e della salute delle piante è molto maggiore se il mix di colture di microrganismi effettivi introdotti sono ecologicamente compatibili gli uni con gli altri. Quando queste colonie di microrganismi “compatibili” si instaurano il loro effetto sinergico diventa molto efficace.</span>
 
