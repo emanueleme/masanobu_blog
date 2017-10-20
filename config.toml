@@ -1,6 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "emanueleme.github.io/masanobu_blog/"
 languageCode = "en-us"
 title = "Masanobu"
 theme = "mainroad"
-
-publishdir = "docs"
+publishDir = "docs"

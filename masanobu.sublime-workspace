@@ -19,10 +19,23 @@
 			}
 		},
 		{
-			"file": "content/config.yaml",
+			"contents": "baseURL = \"http://example.org/\"\nlanguageCode = \"en-us\"\ntitle = \"Masanobu\"\ntheme = \"mainroad\"\npublishdir = \"docs\"\n",
+			"file": "config.toml",
+			"file_size": 114,
+			"file_write_time": 131529810686258687,
 			"settings":
 			{
-				"buffer_size": 117,
+				"buffer_size": 113,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "masanobu_blog/content/config.yaml",
+			"settings":
+			{
+				"buffer_size": 134,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -34,17 +47,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 530.0,
-		"last_filter": "pre",
+		"height": 334.0,
+		"last_filter": "install",
 		"selected_items":
 		[
 			[
-				"pre",
-				"MarkdownLivePreview: Edit Current File"
-			],
-			[
 				"install",
 				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"MarkdownLivePreview: Edit Current File"
 			],
 			[
 				"mater",
@@ -107,7 +120,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 840.0
+		"width": 320.0
 	},
 	"console":
 	{
@@ -128,16 +141,13 @@
 	"expanded_folders":
 	[
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/content",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/content/post",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/content/wp-content",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/layouts",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/static"
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content"
 	],
 	"file_history":
 	[
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/content/posts/2017-05-24-agricoltura-naturale.md",
 		"/C/Users/alldocube/Dropbox/Write/Unghie Sporche/01_Sven.md",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/content/posts/2017-05-24-agricoltura-naturale.md",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/content/posts/2017-07-20-cowspiracy-un-documentario-apre-gli-occhi.md",
 		"/C/Users/alldocube/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
 		"/C/Users/alldocube/AppData/Roaming/Sublime Text 3/Packages/User/Markdown.sublime-settings",
@@ -191,7 +201,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -221,29 +231,58 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "content/config.yaml",
-					"semi_transient": true,
+					"file": "config.toml",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 117,
+						"buffer_size": 113,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								113,
+								113
 							]
 						],
 						"settings":
 						{
-							"markdonw_live_preview_last_run": 1508399376.47,
+							"markdonw_live_preview_last_run": 1508507411.07,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "masanobu_blog/content/config.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508516044.41,
 							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
