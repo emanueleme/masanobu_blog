@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Categories on Masanobu </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://emanueleme.github.io/masanobu_blog/categories/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Category</title>
+      <link>https://emanueleme.github.io/masanobu_blog/categories/category/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>https://emanueleme.github.io/masanobu_blog/categories/category/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senza Categoria</title>
+      <link>https://emanueleme.github.io/masanobu_blog/categories/senza-categoria/</link>
+      <pubDate>Sun, 08 Oct 2017 09:10:25 &#43;0000</pubDate>
+      
+      <guid>https://emanueleme.github.io/masanobu_blog/categories/senza-categoria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subcategory</title>
+      <link>https://emanueleme.github.io/masanobu_blog/categories/subcategory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+      
+      <guid>https://emanueleme.github.io/masanobu_blog/categories/subcategory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
+
