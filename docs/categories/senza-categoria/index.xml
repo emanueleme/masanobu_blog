@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Senza Categoria on Masanobu </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>Senza Categoria on Masanobu</title>
     <link>https://emanueleme.github.io/masanobu_blog/categories/senza-categoria/</link>
+    <description>Recent content in Senza Categoria on Masanobu</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 08 Oct 2017 09:10:25 +0000</lastBuildDate>
     
+	<atom:link href="https://emanueleme.github.io/masanobu_blog/categories/senza-categoria/index.xml" rel="self" type="application/rss+xml" />
     
-    <updated>Sun, 08 Oct 2017 09:10:25 &#43;0000</updated>
     
     <item>
       <title>Come lavorare di meno in autunno: lasciate le foglie dove stanno!</title>
       <link>https://emanueleme.github.io/masanobu_blog/lavorare-meno-autunno-lasciate-le-foglie-stanno/</link>
-      <pubDate>Sun, 08 Oct 2017 09:10:25 &#43;0000</pubDate>
+      <pubDate>Sun, 08 Oct 2017 09:10:25 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/lavorare-meno-autunno-lasciate-le-foglie-stanno/</guid>
       <description>Le foglie del gelso davanti casa mia stanno già ingiallendo. Anche la vite canadese è già di un bel rosso vivo. Il pettirosso inizia a svolazzare per i nostri giardini e i ricci stanno facendo le ultime scorribande serali prima di andare in letargo. Sta iniziando quella stagione dominata dai colori caldi degli alberi, dall’aria fresca e dalle giornate che si accorciano. 
@@ -22,7 +24,7 @@ L’autunno porta con sè anche un po’ di torpore, la voglio di allentare i ri
     <item>
       <title>Il rischio degli OGM</title>
       <link>https://emanueleme.github.io/masanobu_blog/rischio-degli-ogm/</link>
-      <pubDate>Wed, 27 Sep 2017 15:40:49 &#43;0000</pubDate>
+      <pubDate>Wed, 27 Sep 2017 15:40:49 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/rischio-degli-ogm/</guid>
       <description>Ho da poco visto un bel video su YouTube di un certo Dario Bressanini. Il video spiega in maniera chiara la presenza dei prodotti OGM (organismi geneticamente modificati) in Italia. Dopodichè, approfondendo ancora la questione, mi sono imbattuto in un articolo del “Fatto Quotidiano” che mi ha fatto riflettere. Cercherò di ricostruire il filo del discorso nella maniera più chiara e sintetica, partendo proprio dai contenuti del video di Bressanini e dall’articolo del Fatto.</description>
@@ -31,7 +33,7 @@ L’autunno porta con sè anche un po’ di torpore, la voglio di allentare i ri
     <item>
       <title>Alimurgia e l’uso di piante spontanee</title>
       <link>https://emanueleme.github.io/masanobu_blog/alimurgia-luso-piante-spontanee/</link>
-      <pubDate>Sun, 24 Sep 2017 17:21:14 &#43;0000</pubDate>
+      <pubDate>Sun, 24 Sep 2017 17:21:14 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/alimurgia-luso-piante-spontanee/</guid>
       <description>Quando il tuo metodo di coltivazione prevede principalmente di lasciare fare alla natura possiamo scoprire delle notevoli risorse. Le piante spontanee o “erbacce” hanno varie funzioni nell’orto naturale: costituiscono la diversità biologica che rende il nostro ecosistema stabile, concimano il suolo e arieggiano il terreno con le loro radici, ma forse non tutti sanno che le erbacce possano diventare parte del nostro raccolto!
@@ -41,7 +43,7 @@ Questa cosa, che in termini moderni si chiama &amp;#8220;alimurgia&amp;#8221;, f
     <item>
       <title>La rivoluzione del filo di paglia di Masanobu Fukuoka</title>
       <link>https://emanueleme.github.io/masanobu_blog/la-rivoluzione-del-filo-paglia-masanobu-fukuoka/</link>
-      <pubDate>Wed, 20 Sep 2017 17:39:43 &#43;0000</pubDate>
+      <pubDate>Wed, 20 Sep 2017 17:39:43 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/la-rivoluzione-del-filo-paglia-masanobu-fukuoka/</guid>
       <description>Eccomi finalmente a parlare del libro che ha ispirato questo blog. Ho conosciuto l’agricoltura naturale tramite un caro amico che me ne ha parlato e ha potuto mostrarmi nella pratica i suoi risultati, ma non avevo ancora letto “La rivoluzione del filo di paglia”. Ora l’ho fatto e nel libro ho riscontrato molte verità. Molte cose che profondamente giá sapevo, e che avevo intuito, sono state risvegliate dalle parole di questo anziano contadino giapponese.</description>
@@ -50,7 +52,7 @@ Questa cosa, che in termini moderni si chiama &amp;#8220;alimurgia&amp;#8221;, f
     <item>
       <title>Un metodo naturale per la disinfestazione da gramigna</title>
       <link>https://emanueleme.github.io/masanobu_blog/un-metodo-naturale-la-disinfestazione-gramigna/</link>
-      <pubDate>Fri, 15 Sep 2017 10:01:49 &#43;0000</pubDate>
+      <pubDate>Fri, 15 Sep 2017 10:01:49 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/un-metodo-naturale-la-disinfestazione-gramigna/</guid>
       <description>Spesso quando facevo il giardiniere ho notato che le infestazioni più massicce dei prati e delle aiuole erano ad opera della famosa “gramigna”. Ha fama di essere una pianta estremamente infestante che quando inizia a svilupparsi, invade ogni centimetro quadrato di terreno, senza lasciare respiro alle altre piante moltiplicandosi con i suoi rizomi.
@@ -60,7 +62,7 @@ In realtà non è proprio così, o meglio, è così solo in determinate condizio
     <item>
       <title>Sustainable – Il futuro del cibo in America</title>
       <link>https://emanueleme.github.io/masanobu_blog/sustainable-futuro-del-cibo-america/</link>
-      <pubDate>Mon, 11 Sep 2017 22:06:39 &#43;0000</pubDate>
+      <pubDate>Mon, 11 Sep 2017 22:06:39 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/sustainable-futuro-del-cibo-america/</guid>
       <description>In un mondo agricolo dominato da qualche decennio dalle monoculture, dall’uso di fertilizzanti chimici, pesticidi e ferree logiche di mercato, il documentario “Sustainable” spiega alcuni dei difetti di un sistema ormai morente e mostra, con degli esempi concreti, quali sono i metodi per un’agricoltura alternativa, anzi “rigenerativa” rispetto a quella attuale.
@@ -70,7 +72,7 @@ il documentario sottolinea come l’attuale modello, che potremmo chiamare “So
     <item>
       <title>EM – Microrganismi Effettivi (o Efficaci)</title>
       <link>https://emanueleme.github.io/masanobu_blog/em-microrganismi-effettivi-efficaci/</link>
-      <pubDate>Mon, 04 Sep 2017 20:11:58 &#43;0000</pubDate>
+      <pubDate>Mon, 04 Sep 2017 20:11:58 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/em-microrganismi-effettivi-efficaci/</guid>
       <description>Da molti anni si parla di microrganismi effettivi e, sebbene neanche la comunità scientifica capisca ancora molti dei processi interessati, alcuni dicono che gli EM (Effective Microorganism) sono la panacea per tutti i mali; Altri dicono che praticamente non servono a nulla. Personalmente credo che la verità stia un po’ nel mezzo e che gli EM possano essere di buon aiuto per chi vuole praticare un’agricoltura biodinamica o comunque per chi abbia una visione olistica dell’ambiente agricolo.</description>
@@ -79,7 +81,7 @@ il documentario sottolinea come l’attuale modello, che potremmo chiamare “So
     <item>
       <title>Il vostro cane fa le buche in giardino? Ecco una soluzione</title>
       <link>https://emanueleme.github.io/masanobu_blog/vostro-cane-le-buche-giardino-soluzione/</link>
-      <pubDate>Thu, 27 Jul 2017 13:34:06 &#43;0000</pubDate>
+      <pubDate>Thu, 27 Jul 2017 13:34:06 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/vostro-cane-le-buche-giardino-soluzione/</guid>
       <description>I cani hanno sempre questo spiacevole istinto: scavare. Soprattutto quando sono cuccioli, molti cani si divertono scavando il terreno. Non so la ragione, magari vogliono vedere se c&amp;#8217;è qualcosa di interessante sottoterra, oppure hanno in progetto di nascondere qualche &amp;#8220;tesoro&amp;#8221; come un osso o la vostra ciabatta. Probabilmente solo si divertono.
@@ -89,7 +91,7 @@ Con il tempo (e con i nostri sforzi) imparano che è una cosa che non va fatta! 
     <item>
       <title>Cowspiracy – un documentario che apre gli occhi</title>
       <link>https://emanueleme.github.io/masanobu_blog/cowspiracy-un-documentario-apre-gli-occhi/</link>
-      <pubDate>Thu, 20 Jul 2017 14:24:11 &#43;0000</pubDate>
+      <pubDate>Thu, 20 Jul 2017 14:24:11 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/cowspiracy-un-documentario-apre-gli-occhi/</guid>
       <description>Un problema che ho notato quando si parla di Cambiamento Climatico è che non si sa mai dove guardare, conseguentemente, dove cercare per trovare soluzioni. Spesso è difficile individuare i fenomeni più importanti che ne sono la causa, il problema è talmente vasto che sembra di difficile soluzione. Credo che la maggior parte delle persone, quando si citano i &amp;#8220;problemi ambientali&amp;#8221;, pensino al Cambiamento Climatico, ma questo è solo uno dei problemi.</description>
@@ -98,7 +100,7 @@ Con il tempo (e con i nostri sforzi) imparano che è una cosa che non va fatta! 
     <item>
       <title>Orto al 28 Maggio</title>
       <link>https://emanueleme.github.io/masanobu_blog/mio-orto-al-28-maggio/</link>
-      <pubDate>Sun, 28 May 2017 17:58:59 &#43;0000</pubDate>
+      <pubDate>Sun, 28 May 2017 17:58:59 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/mio-orto-al-28-maggio/</guid>
       <description>Ho vissuto in città fino a 26 anni. Da un mese circa mi sono trasferito nella nuova casa in campagna&amp;#8230; Quale occasione migliore per cimentarsi in un piccolo orto, e iniziare le prime prove di agricoltura naturale!L&amp;#8217;orto
@@ -109,7 +111,7 @@ Inizio col dire che NON mi sono cimentato subito con i metodi di Fukuoka per 2 m
     <item>
       <title>Agricoltura Naturale</title>
       <link>https://emanueleme.github.io/masanobu_blog/prospettiva/agricoltura-naturale/</link>
-      <pubDate>Wed, 24 May 2017 20:31:17 &#43;0000</pubDate>
+      <pubDate>Wed, 24 May 2017 20:31:17 +0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/prospettiva/agricoltura-naturale/</guid>
       <description>L&amp;#8217;agricoltura e il giardinaggio sostenibili fondano le loro basi sulla necessità di imparare ad usare le risorse naturali in maniera intelligente e prudente. L&amp;#8217;agricoltura naturale è qualcosa di diverso, è in grado di spingersi anche oltre, richiedendo di meno.
@@ -118,4 +120,3 @@ Personalmente considero vita e natura come entità che sfuggono alla nostra comp
     
   </channel>
 </rss>
-
