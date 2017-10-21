@@ -6,5 +6,6 @@ category:
   - prova
 tag:
   - test
+  - tost
 ---
 dsfasd
