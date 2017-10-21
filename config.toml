@@ -1,5 +1,9 @@
 baseURL = "https://emanueleme.github.io/masanobu_blog/"
 languageCode = "en-us"
 title = "Masanobu"
+<<<<<<< HEAD
 theme = "Mainroad"
+=======
+theme = "tranquilpeak"
+>>>>>>> parent of 4c5bc09... ffsd
 publishDir = "docs"
