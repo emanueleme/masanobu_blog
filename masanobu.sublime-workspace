@@ -8,51 +8,13 @@
 	"buffers":
 	[
 		{
-			"file": "content/config.yaml",
+			"contents": "---\ntitle: riteste\ndraft: false\ndate: 2017-10-21T17:45:48.854Z\ncategory: prova\ntag: 'test, tost'\n---\ndsfasd\n",
+			"file": "content/post/riteste.md",
+			"file_size": 116,
+			"file_write_time": 131530829743828164,
 			"settings":
 			{
-				"buffer_size": 132,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "baseURL = \"https://masanobu.netlify.com/\"\nlanguageCode = \"en-us\"\ntitle = \"Masanobu\"\ntheme = \"pixyll\"\npublishDir = \"docs\"\n",
-			"file": "config.toml",
-			"file_size": 126,
-			"file_write_time": 131530452754605989,
-			"settings":
-			{
-				"buffer_size": 121,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "",
-			"file": "/C/Users/alldocube/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
-			"file_size": -1,
-			"file_write_time": -1,
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "static/admin/index.html",
-			"settings":
-			{
-				"buffer_size": 593,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "themes/pixyll/layouts/partials/head.html",
-			"settings":
-			{
-				"buffer_size": 1293,
-				"encoding": "UTF-8",
+				"buffer_size": 108,
 				"line_ending": "Windows"
 			}
 		},
@@ -60,9 +22,45 @@
 			"file": "static/admin/config.yml",
 			"settings":
 			{
-				"buffer_size": 339,
+				"buffer_size": 1236,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/main/layouts/partials/header.html",
+			"settings":
+			{
+				"buffer_size": 1965,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/main/layouts/partials/footer.html",
+			"settings":
+			{
+				"buffer_size": 730,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 119,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/tranquil/.git",
+			"settings":
+			{
+				"buffer_size": 43,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -167,16 +165,30 @@
 	"expanded_folders":
 	[
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/archetypes",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/layouts",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/static",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/static/admin",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes"
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/main",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/main/exampleSite",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/main/exampleSite/content",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/main/layouts",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/main/layouts/_default",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/main/layouts/partials"
 	],
 	"file_history":
 	[
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/static/admin/config.yml",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/post/lepre.md",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/post/test.md",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/pixyll/layouts/_default/single.html",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/config.toml",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/static/admin/index.html",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/static/admin/images/uploads/test.jpg",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/pixyll/layouts/partials/head.html",
+		"/C/Users/alldocube/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
 		"/C/Users/alldocube/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/prova.md",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/post/lepre.md",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/config.toml",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/config.yaml",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/pixyll/.git",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/tranquilpeak/theme.toml",
@@ -239,74 +251,16 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "content/config.yaml",
+					"file": "content/post/riteste.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 132,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								34,
-								34
-							]
-						],
-						"settings":
-						{
-							"markdonw_live_preview_last_run": 1508571642.9,
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "config.toml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 121,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								121,
-								121
-							]
-						],
-						"settings":
-						{
-							"markdonw_live_preview_last_run": 1508571666.07,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/alldocube/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
+						"buffer_size": 108,
 						"regions":
 						{
 						},
@@ -319,99 +273,99 @@
 						],
 						"settings":
 						{
-							"markdonw_live_preview_last_run": 1508583620.21,
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+							"markdonw_live_preview_last_run": 1508609375.87,
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "static/admin/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 593,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								412,
-								412
-							]
-						],
-						"settings":
-						{
-							"markdonw_live_preview_last_run": 1508583731.54,
-							"open_with_edit": true,
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "themes/pixyll/layouts/partials/head.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1293,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1267,
-								1267
-							]
-						],
-						"settings":
-						{
-							"markdonw_live_preview_last_run": 1508584141.66,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 270.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 1,
 					"file": "static/admin/config.yml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 339,
+						"buffer_size": 1236,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								155,
-								155
+								949,
+								949
 							]
 						],
 						"settings":
 						{
-							"markdonw_live_preview_last_run": 1508583743.13,
-							"open_with_edit": true,
-							"syntax": "Packages/YAML/YAML.sublime-syntax"
+							"markdonw_live_preview_last_run": 1508609413.83,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 460.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "themes/main/layouts/partials/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1143,
+								1143
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508611625.04,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "themes/main/layouts/partials/footer.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								618,
+								618
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508611646.46,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -421,10 +375,62 @@
 					"type": "text"
 				},
 				{
-					"file": "static/admin/images/uploads/test.jpg",
+					"buffer": 4,
+					"file": "config.toml",
 					"semi_transient": false,
-					"stack_index": 1,
-					"type": "image"
+					"settings":
+					{
+						"buffer_size": 119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508610318.93,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "themes/tranquil/.git",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508610796.88,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
 				}
 			]
 		}
