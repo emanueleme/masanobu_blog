@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 media_folder: "static/images/uploads" # Media files will be stored in the repo under images/uploads
 
 # Collections
@@ -20,7 +20,11 @@ collections: # A list of collections the CMS should be able to edit
     # The fields each document in this collection have
     fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+<<<<<<< HEAD
       - {label: "Draft", name: "draft", widget: "string"}
+=======
+      - {label: "Draft", name: "Draft", widget: "boolean"}
+>>>>>>> parent of b88dd8f... draft
       # Use required: false instead of optional: true - https://github.com/netlify/netlify-cms/issues/315
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Date", name: "date", widget: "datetime"}
