@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Masanobu</title>
+      <title>Categories on Masanobu </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>https://emanueleme.github.io/masanobu_blog/categories/</link>
-    <description>Recent content in Categories on Masanobu</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://emanueleme.github.io/masanobu_blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    <updated>Mon, 01 Jan 0001 00:00:00 UTC</updated>
     
     <item>
       <title>Senza Categoria</title>
       <link>https://emanueleme.github.io/masanobu_blog/categories/senza-categoria/</link>
-      <pubDate>Sun, 08 Oct 2017 09:10:25 +0000</pubDate>
+      <pubDate>Sun, 08 Oct 2017 09:10:25 &#43;0000</pubDate>
       
       <guid>https://emanueleme.github.io/masanobu_blog/categories/senza-categoria/</guid>
       <description></description>
@@ -21,3 +20,4 @@
     
   </channel>
 </rss>
+
