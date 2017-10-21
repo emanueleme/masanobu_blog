@@ -7,6 +7,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "content/config.yaml",
+			"settings":
+			{
+				"buffer_size": 132,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 121,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -110,17 +128,22 @@
 	[
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/post",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/layouts",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/static",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes"
 	],
 	"file_history":
 	[
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/tranquilpeak/theme.toml",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/prova.md",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/post/lepre.md",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/config.toml",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/config.yaml",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/pixyll/.git",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/tranquilpeak/theme.toml",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/tranquilpeak/layouts/partials/head.html",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes/mainroad/theme.toml",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/public/agricoltura-naturale/index.html",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/config.yaml",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/masanobu_blog/content/config.yaml",
 		"/C/Users/alldocube/Dropbox/Write/Unghie Sporche/01_Sven.md",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/content/posts/2017-05-24-agricoltura-naturale.md",
@@ -177,8 +200,67 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "content/config.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508571642.9,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508571666.07,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
