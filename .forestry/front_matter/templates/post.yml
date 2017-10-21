@@ -1,0 +1,63 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: field_group
+  hidden: false
+  default: {}
+- name: url
+  label: Url
+  type: text
+  hidden: false
+  default: ''
+- name: av_cpm_meta
+  label: Av cpm meta
+  type: list
+  hidden: false
+  default: ''
+- name: avopt_banners_inside_post
+  label: Avopt banners inside post
+  type: list
+  hidden: false
+  default: ''
+- name: avopt_banners_on_page
+  label: Avopt banners on page
+  type: list
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default:
+  - category
+  - subcategory
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default:
+  - tag1
+  - tag2
+- name: keywords
+  label: Keywords
+  type: list
+  hidden: false
+  default:
+  - tech
