@@ -20,7 +20,6 @@ collections: # A list of collections the CMS should be able to edit
     # The fields each document in this collection have
     fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Draft", name: "draft", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Date", name: "date", widget: "datetime"}
 ## Does not currently work, see https://github.com/netlify/netlify-cms/issues/248
