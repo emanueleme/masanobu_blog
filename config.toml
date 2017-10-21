@@ -1,4 +1,4 @@
-baseURL = "https://emanueleme.github.io/masanobu_blog/"
+baseURL = "https://masanobu.netlify.io"
 languageCode = "en-us"
 title = "Masanobu"
 theme = "pixyll"
