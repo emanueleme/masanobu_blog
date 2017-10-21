@@ -17,10 +17,64 @@
 			}
 		},
 		{
+			"contents": "baseURL = \"https://masanobu.netlify.com/\"\nlanguageCode = \"en-us\"\ntitle = \"Masanobu\"\ntheme = \"pixyll\"\npublishDir = \"docs\"\n",
 			"file": "config.toml",
+			"file_size": 126,
+			"file_write_time": 131530452754605989,
 			"settings":
 			{
 				"buffer_size": 121,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/alldocube/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n\t// A list of URLs that each contain a JSON file with a list of repositories.\n\t// The repositories from these channels are placed in order after the\n\t// repositories from the \"repositories\" setting\n\t\"channels\": [\n\t\t\"https://packagecontrol.io/channel_v3.json\"\n\t],\n\n\t// A list of URLs that contain a packages JSON file. These repositories\n\t// are placed in order before repositories from the \"channels\"\n\t// setting\n\t\"repositories\": [],\n\n\t// A list of packages to install pre-release versions for. Versions\n\t// under 1.0.0 are not considered pre-release, only those using the SemVer\n\t// -prerelease suffixes will be ignored if the package is not in this\n\t// list.\n\t\"install_prereleases\": [],\n\n\t// If debugging information for HTTP/HTTPS connections should be printed\n\t// to the Sublime Text console\n\t\"debug\": false,\n\n\t// This helps solve naming issues where a repository it not named the\n\t// same as the package should be. This is primarily only useful for\n\t// GitHub and BitBucket repositories. This mapping will override the\n\t// mapping that is retrieved from the repository channels.\n\t\"package_name_map\": {},\n\n\t// If package install, upgrade and removal info should be submitted to\n\t// the channel for aggregated statistics\n\t\"submit_usage\": true,\n\n\t// The URL to post install, upgrade and removal notices to\n\t\"submit_url\": \"https://packagecontrol.io/submit\",\n\n\t// If packages should be automatically upgraded when ST starts\n\t\"auto_upgrade\": true,\n\n\t// If missing packages should be automatically installed when ST starts\n\t\"install_missing\": true,\n\n\t// If a package was installed by Package Control (has a\n\t// package-metadata.json file) but is not in installed_packages, remove it\n\t// based upon the assumption that it was removed on another machine and\n\t// the Package Control.sublime-settings file was synced to this machine.\n\t\"remove_orphaned\": true,\n\n\t// The minimum frequency in hours in which to check for automatic upgrades,\n\t// setting this to 0 will always check for automatic upgrades\n\t\"auto_upgrade_frequency\": 1,\n\n\t// Packages to not auto upgrade\n\t\"auto_upgrade_ignore\": [],\n\n\t// Timeout for downloading channels, repositories and packages. Doesn't\n\t// have an effect on Windows due to a bug in WinINet.\n\t\"timeout\": 30,\n\n\t// The number of seconds to cache repository and package info for\n\t\"cache_length\": 300,\n\n\t// An HTTP proxy server to use for requests. Not normally used on Windows\n\t// since the system proxy configuration is utilized via WinINet. However,\n\t// if WinINet is not working properly, this will be used by the Urllib\n\t// downloader, which acts as a fallback.\n\t\"http_proxy\": \"\",\n\t// An HTTPS proxy server to use for requests - this will inherit from\n\t// http_proxy if it is set to \"\" or null and http_proxy has a value. You\n\t// can set this to false to prevent inheriting from http_proxy. Not\n\t// normally used on Windows since the system proxy configuration is\n\t// utilized via WinINet. However, if WinINet is not working properly, this\n\t// will be used by the Urllib downloader, which acts as a fallback.\n\t\"https_proxy\": \"\",\n\n\t// Username and password for both http_proxy and https_proxy. May be used\n\t// with WinINet to set credentials for system-level proxy config.\n\t\"proxy_username\": \"\",\n\t\"proxy_password\": \"\",\n\n\t// If HTTP responses should be cached to disk\n\t\"http_cache\": true,\n\n\t// Number of seconds to cache HTTP responses for, defaults to one week\n\t\"http_cache_length\": 604800,\n\n\t// User agent for HTTP requests. If \"%s\" is present, will be replaced\n\t// with the current version.\n\t\"user_agent\": \"Package Control v%s\",\n\n\t// A list of package names to ignore when performing operations. This will\n\t// only affect packages that appear to be a git or hg repository, but will\n\t// be especially useful for package developers who manually deal with the\n\t// repository and don't want Package Control touching it.\n\t//\n\t// It can help if trying to list packages to install hangs, possibly due\n\t// to an interactive prompt.\n\t//\n\t// The setting can also be set to the boolean true to ignore all git and hg\n\t// repositories, no matter what the name.\n\t\"ignore_vcs_packages\": [],\n\n\t// Custom path(s) to \"git\" binary for when it can't be automatically\n\t// found on the system and a package includes a .git metadata directory.\n\t// Supports more than one path to allow users to sync settings across\n\t// operating systems.\n\t\"git_binary\": [],\n\n\t// This should NOT contain the name of the remote or branch - that will\n\t// be automatically determined.\n\t\"git_update_command\": [\"pull\", \"--ff\", \"--commit\"],\n\n\t// Custom path(s) to \"hg\" binary for when it can't be automatically\n\t// found on the system and a package includes a .hg metadata directory.\n\t// Supports more than one path to allow users to sync settings across\n\t// operating systems.\n\t\"hg_binary\": [],\n\n\t// For HG repositories, be sure to use \"default\" as the remote URL.\n\t// This is the default behavior when cloning an HG repo.\n\t\"hg_update_command\": [\"pull\", \"--update\"],\n\n\t// Additional packages to ignore when listing unmanaged packages.\n\t\"unmanaged_packages_ignore\": [],\n\n\t// The downloader backends that should be used for HTTP(S) requests, split\n\t// by operating system to allow for configuration to be shared.\n\t//\n\t// Valid options include: \"urllib\", \"curl\", \"wget\", (Windows-only) \"wininet\"\n\t//\n\t// This setting allows Windows users to bypass wininet and use urllib\n\t// instead if they machine or network presents trouble to wininet. Some\n\t// OS X and Linux users have also reported better luck with certain proxies\n\t// using curl or wget instead of urllib.\n\t//\n\t// The \"curl\" and \"wget\" options require the command line \"curl\" or \"wget\"\n\t// program installed and present in the PATH.\n\t\"downloader_precedence\": {\n\t\t\"windows\": [\"wininet\"],\n\t\t\"osx\": [\"urllib\"],\n\t\t\"linux\": [\"urllib\", \"curl\", \"wget\"]\n\t},\n\n\t// Directories to ignore when creating a package\n\t\"dirs_to_ignore\": [\n\t\t\".hg\", \".git\", \".svn\", \"_darcs\", \"CVS\"\n\t],\n\n\t// Files to ignore when creating a package\n\t\"files_to_ignore\": [\n\t\t\"*.pyc\", \".hgignore\", \".gitignore\", \".bzrignore\",\n\t\t\"*.sublime-project\", \"*.sublime-workspace\", \"*.tmTheme.cache\"\n\t],\n\n\t// Files to include, even if they match a pattern in files_to_ignore\n\t\"files_to_include\": [],\n\n\t// When a package is created, copy it to this folder - defaults to Desktop\n\t\"package_destination\": \"\",\n\n\t// A way to create different packaging profiles for different types of\n\t// package releases, such as for different platforms or binary-only\n\t// releases.\n\t//\n\t// The key of the object will be the profile name and a list of them will\n\t// be presenting when running the \"Create Package File\" command. The\n\t// profile \"Default\" will use the top-level version on the following\n\t// settings:\n\t//\n\t// - \"dirs_to_ignore\"\n\t// - \"files_to_ignore\"\n\t// - \"files_to_include\"\n\t// - \"package_destination\"\n\t//\n\t// If a profile does not include one of those three setting, it will fall\n\t// back to the top-level settings.\n\t\"package_profiles\": {\n\t\t\"Binaries Only\": {\n\t\t\t// Exclude all .py files, but consequently include all .pyc files\n\t\t\t\"files_to_ignore\": [\n\t\t\t\t\"*.py\", \".hgignore\", \".gitignore\", \".bzrignore\",\n\t\t\t\t\"*.sublime-project\", \"*.sublime-workspace\", \"*.tmTheme.cache\"\n\t\t\t],\n\n\t\t\t// Include __init__.py so Sublime Text will load the package\n\t\t\t\"files_to_include\": [\n\t\t\t\t\"__init__.py\"\n\t\t\t]\n\t\t}\n\t},\n\n\t// Enable the ability to run the tests - this is only for development\n\t\"enable_tests\": false\n}\n",
+			"file": "/C/Users/alldocube/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 7379,
+				"line_ending": "Windows",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "static/admin/index.html",
+			"settings":
+			{
+				"buffer_size": 593,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/pixyll/layouts/partials/head.html",
+			"settings":
+			{
+				"buffer_size": 1293,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "static/admin/config.yml",
+			"settings":
+			{
+				"buffer_size": 334,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -33,7 +87,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 334.0,
+		"height": 530.0,
 		"last_filter": "install",
 		"selected_items":
 		[
@@ -106,7 +160,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 320.0
+		"width": 780.0
 	},
 	"console":
 	{
@@ -127,10 +181,8 @@
 	"expanded_folders":
 	[
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/content/post",
-		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/layouts",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/static",
+		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/static/images",
 		"/C/Users/alldocube/Dropbox/Sites/Giorgio/masanobu/masanobu_blog/themes"
 	],
 	"file_history":
@@ -200,7 +252,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -229,7 +281,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
@@ -245,14 +297,163 @@
 						"selection":
 						[
 							[
-								40,
-								40
+								121,
+								121
 							]
 						],
 						"settings":
 						{
 							"markdonw_live_preview_last_run": 1508571666.07,
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/alldocube/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508583620.21,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/alldocube/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7379,
+								7379
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508583627.01,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "static/admin/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								412
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508583731.54,
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "themes/pixyll/layouts/partials/head.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1267,
+								1267
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508584141.66,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "static/admin/config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"markdonw_live_preview_last_run": 1508583743.13,
+							"open_with_edit": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
