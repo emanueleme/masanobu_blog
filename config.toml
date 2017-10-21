@@ -1,5 +1,5 @@
 baseURL = "https://masanobu.netlify.com/"
 languageCode = "en-us"
 title = "Masanobu"
-theme = "pixyll"
+theme = "tranquilpeak"
 publishDir = "docs"
