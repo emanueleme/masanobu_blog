@@ -24,7 +24,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Date", name: "date", widget: "datetime"}
 ## Does not currently work, see https://github.com/netlify/netlify-cms/issues/248
-      - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Categories", name: "categories", widget: "string"}
  
  
