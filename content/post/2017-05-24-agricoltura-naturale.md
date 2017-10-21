@@ -21,7 +21,7 @@ tags:
 
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=emanueler%40gmail.com&ctz=Europe%2FRome" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 L&#8217;agricoltura e il giardinaggio sostenibili fondano le loro basi sulla necessità di imparare ad usare le risorse naturali in maniera intelligente e prudente. L&#8217;agricoltura naturale è qualcosa di diverso, è in grado di spingersi anche oltre, richiedendo di meno.
 
