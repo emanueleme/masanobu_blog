@@ -1,17 +1,9 @@
 ---
 title: Orto al 28 Maggio
-author: masanobu
-type: post
-date: 2017-05-28T17:58:59+00:00
-url: /mio-orto-al-28-maggio/
-av_cpm_meta:
-  - 'a:5:{s:7:"message";s:0:"";s:9:"published";i:1;s:16:"needs_publishing";b:0;s:7:"picture";s:0:"";s:12:"picture_type";i:1;}'
-avopt_banners_inside_post:
-  - 'true'
-avopt_banners_on_page:
-  - 'true'
+draft: false
+date: 2017-05-28T17:58:59.000Z
 categories:
-  - Senza categoria
+  - Agricoltura naturale
 tags:
   - agricoltura
   - biodinamica
@@ -22,7 +14,6 @@ tags:
   - pomodori
   - sostenibilità
   - zucchine
-
 ---
 Ho vissuto in città fino a 26 anni. Da un mese circa mi sono trasferito nella nuova casa in campagna&#8230; Quale occasione migliore per cimentarsi in un piccolo orto, e iniziare le prime prove di agricoltura naturale!<figure id="attachment_63" style="width: 3120px" class="wp-caption alignnone">
 
