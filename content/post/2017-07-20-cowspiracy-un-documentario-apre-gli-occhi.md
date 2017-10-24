@@ -1,17 +1,9 @@
 ---
 title: Cowspiracy – un documentario che apre gli occhi
-author: masanobu
-type: post
-date: 2017-07-20T14:24:11+00:00
-url: /cowspiracy-un-documentario-apre-gli-occhi/
-av_cpm_meta:
-  - 'a:3:{s:7:"message";s:0:"";s:9:"published";i:1;s:16:"needs_publishing";b:0;}'
-avopt_banners_inside_post:
-  - 'true'
-avopt_banners_on_page:
-  - 'true'
+draft: false
+date: 2017-07-20T14:24:11.000Z
 categories:
-  - Senza categoria
+  - Agricoltura naturale
 tags:
   - ambiente
   - animali
@@ -22,7 +14,6 @@ tags:
   - revolucion
   - sostenibilità
   - veg
-
 ---
 <p style="text-align: left;">
   Un problema che ho notato quando si parla di Cambiamento Climatico è che non si sa mai dove guardare, conseguentemente, dove cercare per trovare soluzioni. Spesso è difficile individuare i fenomeni più importanti che ne sono la causa, il problema è talmente vasto che sembra di difficile soluzione.
