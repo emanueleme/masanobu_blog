@@ -1,24 +1,15 @@
 ---
 title: Agricoltura Naturale
-author: masanobu
-type: post
-date: 2017-05-24T20:31:17+00:00
-url: prospettiva/agricoltura-naturale/
-av_cpm_meta:
-  - 'a:5:{s:7:"message";s:0:"";s:9:"published";i:1;s:16:"needs_publishing";b:0;s:7:"picture";s:0:"";s:12:"picture_type";i:1;}'
-avopt_banners_inside_post:
-  - 'true'
-avopt_banners_on_page:
-  - 'true'
+draft: false
+date: 2017-05-24T20:31:17.000Z
 categories:
-  - Senza categoria
+  - Agricoltura naturale
 tags:
   - agricoltura
   - agricoltura naturale
   - meditazione
   - natura
   - om
-
 ---
 
 
